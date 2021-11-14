@@ -1,2 +1,2 @@
-# -_PY
-코딩도장 파이썬
+# CodingDoejang-_PY
+코딩도장 파이썬ㅎㅎ
